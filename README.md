@@ -9,3 +9,5 @@ This is just my example project of using my Easy Behavior Tree Editor that I hav
 Here is the link to the behavior tree editor:
 
 https://uniprimesoftware.itch.io/gold-behavior
+
+https://www.youtube.com/watch?v=ggptxHVu4B0
