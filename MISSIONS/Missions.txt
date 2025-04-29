@@ -1,0 +1,43 @@
+[Mission0]
+ShipsToSpawnT2=1,Dragonfly,Lujasin
+Rewards=Items,Weapons/BasicTurret
+
+[Mission1]
+ShipsToSpawnT2=2,Dragonfly,Lukili,Dzonson
+
+[Mission2]
+ShipsToSpawnT2=3,Dragonfly,Stefo,Maja,Gustafson
+Fleet =1,Dragonfly
+
+[Mission3]
+ShipsToSpawnT2=3,Dragonfly,Lujasinka,Marija,Gustafson,1,Fork,Viktor
+Fleet =1,Fork
+
+[Mission4]
+ShipsToSpawnT2=3,Fork,Vidza,Marija,Gustafson
+Fleet=1,Dragonfly,1,Fork
+
+[Mission5]
+ShipsToSpawnT2=1,Gunboat,John Cena
+Fleet=2,Fork
+
+[Mission6]
+ShipsToSpawnT2=2,Gunboat,Zuym, Zoom
+Fleet=1,Gunboat
+Rewards=Upgrade,Speed
+
+[Mission7]
+ShipsToSpawnT2=2,Gunboat,Dwayne, Flash
+
+[Mission8]
+ShipsToSpawnT2=1,Gunboat,The Rock,1,Libery,John Cena
+Fleet=1,Liberty
+
+[Mission9]
+ShipsToSpawnT2=1,Gunboat,Jhnson,2,Libery,John Cena,Ligma
+Fleet=1,Liberty,3,Dragonfly,2,Victory
+
+[Mission10]
+ShipsToSpawnT2=1,Dreadnaught,The Rock,5,Dragonfly,John Cena,Ligma,Sigma,Walt Disney
+Fleet=1,Liberty,5,Dragonfly,2,Victory,2,Liberty,2,Corsair
+Rewards=Items,Weapons/BasicTurret

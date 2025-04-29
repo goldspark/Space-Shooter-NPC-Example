@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b3723d992df31b742af5c40eaeaec89d
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 23706
+  packageName: Advanced INI Parser
+  packageVersion: 1.0
+  assetPath: Assets/Advanced INI Parser/Example code, how to save and load game data.pdf
+  uploadId: 38533

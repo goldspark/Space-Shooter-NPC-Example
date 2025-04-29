@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7576839911246389749
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 806922148221268799}
+  - component: {fileID: 9069247318642847333}
+  m_Layer: 0
+  m_Name: Spawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &806922148221268799
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7576839911246389749}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9069247318642847333
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7576839911246389749}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 336f8b7df4eaa444ebd1265d7a0916bb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dragonfly: {fileID: 7834593612512880216, guid: ca94f61477b020b4bacf9a7f00b8f48e, type: 3}
+  fork: {fileID: 4354535918489261985, guid: ac93bf3924122c047af784248cdaf1e8, type: 3}
+  victory: {fileID: 1078428870617226195, guid: fa78f1511cf190a43bae2f371b85e265, type: 3}
+  legate: {fileID: 4286342811713541931, guid: 9c1c4c377ffad9143b5c613a8511cf4a, type: 3}
+  libBoat: {fileID: 686026378524388448, guid: 0b68f4f8fb1976a429fc36ea7e5e91cc, type: 3}
+  gunboat: {fileID: 9221388509678852437, guid: 3041696a49c70d748947d7719d7a87c5, type: 3}
+  battleship: {fileID: 113449130820416366, guid: 7e61793a71df71e4eaf9e6e7059686ea, type: 3}
+  aiSpawnTransform: {fileID: 0}
+  basicTurret: {fileID: 4860624625381246110, guid: eb93ab21b9d9ff342b448c0131f99393, type: 3}
+  basicGun: {fileID: 297818261708127172, guid: 254d92b2223336d479f506a56fccb5f7, type: 3}
+  advTurret: {fileID: 1872260628191506142, guid: 86be13c7c4affbe47afa330b29a90ee7, type: 3}
+  advGun: {fileID: 297818261708127172, guid: 88d71660b7edb0843beb22d711fcd4f4, type: 3}
+  lastSpawnedShip: {fileID: 0}
